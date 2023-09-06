@@ -1,3 +1,3 @@
 # Embedded-Basics
 
-Proyectos básicos en Arduino y lenguaje ensamblador (PIC16F84A).
+Proyectos básicos haciendo uso de Arduino y lenguaje ensamblador (PIC16F84A).
